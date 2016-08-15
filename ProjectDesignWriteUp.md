@@ -29,16 +29,12 @@
   * Being able to predict 'level of interestingness' - I assume this will need some level of input on my behalf to create some training reference set that the model can use. This feels as though it will be fairly arbitrary though, and what volume is required?
   * There's an awful lot to do in the time available, particularly if I want to take the Slack part of it to any level of completeness - I think I will likely have a lot of follow-up items afterwards!
 * Assumptions and caveats:
-    * What data do you not have access to but wish you had?
-    * What is already implied about the observations in your data set? For example, if your primary data set is twitter data, it may not be representative of the whole sample (say, predicting who would win an election)
-* What are the risks to the project?
-    * What's the cost of your model being wrong? (What's the benefit of your model being right?)
-    * Is any of the data incorrect? Could it be incorrect?
+    * A key assumption that will be included initially is that my personal preferences are reflective across the population of industry professionals. How I classify whether an article is interesting or not will influence how the model is trained - it could very well be the case that something that is interesting to me, is not interesting to others and vice versa.
+    * I do not have access to webpage readership data which is unfortunate as this would give a very good indication of the perceived level of interestingness for each comment based on the general reader base. One idea was to use number of comments on the article as a proxy for this, but typically articles do not receive any comments at all and so this is unlikely to be a good predictor. 
+    * The data will already be focused on Investment Management since the websites focused on are providers of news to that sector. We are not crawling generic news websites and looking for articles about Investment Maangement
 
 ### Outcomes
-* What do you expect the output to look like?
-* What does your target audience expect the output to look like?
-* What gain do you expect from your most important feature on its own?
-* How complicated does your model have to be?
-* How successful does your project have to be in order to be considered a "success"?
-* What will you do if the project is a bust (this happens! but it shouldn't here)?
+* I expect the output to be a daily/weekly ranked top 'n' articles
+* My target audience expects the output to be served in a way that is readily consumable, and that provides them an opportunity to feed back into the modeeling of 'interesting articles'.
+* The model could start very simple, with just, for example, the top 'Citywire' articles of the week, and then move to a higher frequency and cadence of recommendations, and incorporate additional sources.
+* If rolled out to colleagues then the audience will be highly critical! My model needs at least an 85% success rate in identifying an 'interesting' article, otherwise adoption is likely to be poor.
