@@ -17,7 +17,6 @@
 2. http://www.funds-europe.com/news
 3. http://www.ignites.com
 4. https://next.ft.com/ftfm
-
 * Many of the above require credentials to access the full article. For consideration will be how to store this credentials offline and access them in my script such that they are not uploaded to, and therefore exposed on, GitHub
 
 ### Domain knowledge
@@ -25,8 +24,11 @@
 * Similar projects do exist, but with a focus on creating news article recommendation systems for Front Office researchers and analysts in the industry. For example recommending articles that may give some previously unnoticed insight into the performance of a company, or indeed using twitter sentiment analysis to provide early indication of macroeconomic factors
 
 ### Project Concerns
-* What questions do you have about your project? What are you not sure you quite yet understand? (The more honest you are about this, the easier your instructors can help).
-* What are the assumptions and caveats to the problem?
+* Key concerns at present include the following:
+  * The depth of my understanding of NLP - this is likely, I expect, to be the most time-consuming area, just processing each of the articles, in a repeatable fashion.
+  * Being able to predict 'level of interestingness' - I assume this will need some level of input on my behalf to create some training reference set that the model can use. This feels as though it will be fairly arbitrary though, and what volume is required?
+  * There's an awful lot to do in the time available, particularly if I want to take the Slack part of it to any level of completeness - I think I will likely have a lot of follow-up items afterwards!
+* Assumptions and caveats:
     * What data do you not have access to but wish you had?
     * What is already implied about the observations in your data set? For example, if your primary data set is twitter data, it may not be representative of the whole sample (say, predicting who would win an election)
 * What are the risks to the project?
