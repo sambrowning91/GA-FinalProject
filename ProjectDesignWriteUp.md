@@ -1,8 +1,9 @@
-# Project Design Writeup and Approval Template
-
-Follow this as a guide to completing the project design writeup. The questions for each section are merely there to suggest what the baseline should cover; be sure to use detail as it will make the project much easier to approach as the class moves on.
+# Project Design Writeup - Investment Management News Articles Recommender
 
 ### Project Problem and Hypothesis
+
+
+
 * What's the project about? What problem are you solving?
 * Where does this seem to reside as a machine learning problem? Are you predicting some continuous number, or predicting a binary value?
 * What kind of impact do you think it could have?
