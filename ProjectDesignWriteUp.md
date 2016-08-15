@@ -12,16 +12,17 @@
 * As an initial guess, I expect that the sentiment of an article will have a key impact in predicting 'level of interestingness'. strongly negative or positive articles are expected to provide the greatest interest to users. Additionally I would like to add an 'IsClient' dummy variable that indicates whether the article is talking about one of my firm's clients. If the article is, then I expect this to heavily influence whether or not the article is found to be interesting.
 
 ### Datasets
-* Description of data set available, at the field level (see table)
-* If from an API, include a sample return (this is usually included in API documentation!) (if doing this in markdown, use the javacription code tag)
+* The data available to me for this topic is limited and will require html scraping of various news sources. In order to enable my project to be scalable and deliver some results in the near-term (rather than becoming bogged down in trying to scrape the entire daily financial news literature on the worldwide web) I will focus on the following sites in priority order, and will likely start with only 2 websites, extending as time permits:
+1. citywire.co.uk/wealth-manager
+2. http://www.funds-europe.com/news
+3. http://www.ignites.com
+4. https://next.ft.com/ftfm
+
+* Many of the above require credentials to access the full article. For consideration will be how to store this credentials offline and access them in my script such that they are not uploaded to, and therefore exposed on, GitHub
 
 ### Domain knowledge
-* What experience do you already have around this area?
-* Does it relate or help inform the project in any way?
-* What other research efforts exist?
-    * Use a quick Google search to see what approaches others have made, or talk with your colleagues if it is work related about previous attempts at similar problems.
-    * This could even just be something like "the marketing team put together a forecast in excel that doesn't do well."
-    * Include a benchmark, how other models have performed, even if you are unsure what the metric means.
+* I have worked in the Investment Management industry for 2-3 years and as such have good knowledge of the avaialable news sources and what might indicate whether or not an article is deemed of high or low interest to industry-concerned individuals (at my firm at least)
+* Similar projects do exist, but with a focus on creating news article recommendation systems for Front Office researchers and analysts in the industry. For example recommending articles that may give some previously unnoticed insight into the performance of a company, or indeed using twitter sentiment analysis to provide early indication of macroeconomic factors
 
 ### Project Concerns
 * What questions do you have about your project? What are you not sure you quite yet understand? (The more honest you are about this, the easier your instructors can help).
