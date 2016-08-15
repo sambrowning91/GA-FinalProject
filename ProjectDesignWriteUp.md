@@ -13,7 +13,7 @@
 
 ### Datasets
 * The data available to me for this topic is limited and will require html scraping of various news sources. In order to enable my project to be scalable and deliver some results in the near-term (rather than becoming bogged down in trying to scrape the entire daily financial news literature on the worldwide web) I will focus on the following sites in priority order, and will likely start with only 2 websites, extending as time permits:
-1. citywire.co.uk/wealth-manager
+1. http://www.citywire.co.uk/wealth-manager
 2. http://www.funds-europe.com/news
 3. http://www.ignites.com
 4. https://next.ft.com/ftfm
