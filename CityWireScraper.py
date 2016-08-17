@@ -7,8 +7,8 @@ Created on Mon Aug  1 16:22:42 2016
 
 from bs4 import BeautifulSoup
 import urllib
-import csv
 import time
+import pandas as pd
 
 #retrieve html content of all stories page on citywire and write to txt file
 urllib.urlretrieve("http://citywire.co.uk/wealth-manager/news/all-stories/list", "Allstories.txt")
@@ -26,13 +26,12 @@ for link in soup.find_all("a", class_="media__entry-link"):
     else:
         page_links.append(link.get('href'))
 
+articles = pd.DataFrame(page_links, columns=["PageLinks"])
+
 #create string with today's date for filename
 timestr = time.strftime("%Y%m%d")
-#create outputfile with today's date in name
+#create outputfile variable with today's date in name
 outputfile = 'StoryList-%s.csv' % timestr
-#open file and write links to file
-with open(outputfile,"w") as thefile:
-    wr = csv.writer(thefile, quoting=csv.QUOTE_ALL)
-    wr.writerow(page_links)
-
+#write links to file
+articles.to_csv(outputfile, index=False)
 
