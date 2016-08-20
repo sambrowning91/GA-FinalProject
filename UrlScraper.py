@@ -9,6 +9,8 @@ Writing a script to loop over a list of urls, filter out all the crap and return
 
 import time
 import pandas as pd
+from bs4 import BeautifulSoup
+import requests
 
 #create string with today's date for filename
 timestr = time.strftime("%Y%m%d")
@@ -17,9 +19,57 @@ inputfile = 'StoryList-%s.csv' % timestr
 
 df = pd.read_csv(inputfile)
 
+#Need to hack at this to make sure they all have citywire.co.uk/wealth-manager appended
+for i in df["PageLinks"]:
+    df["FullLink"] = 'http://citywire.co.uk' + df["PageLinks"]
 
-#Write somefunction that will do the thing to the link, then loop over all the links and do the function
-#for i in df["PageLinks"]:
-    #SOMEFUNCTION()
+#what do we want the function to do? Want it to go to the link, grab the text, process the text (i.e. lower case it and remove 
+#stopwords etc.) Then stick the text in the DataFrame
 
-#what do we want the function to do? 
+def ScrapeArticleHead(link):
+    #retrieve html content of story page on citywire and write to txt file
+    page = requests.get(link)
+    #open file
+    htmldoc = page.text
+    #create soup
+    soup = BeautifulSoup(htmldoc, "html.parser")
+    #get header
+    return soup.h1.get_text(strip=True)
+    
+def ScrapeArticleBod(link):
+    #retrieve html content of story page on citywire and write to txt file
+    page = requests.get(link)
+    #open file
+    htmldoc = page.text
+    #create soup
+    soup = BeautifulSoup(htmldoc, "html.parser")
+    #get the important bits of the html doc
+    #get body
+    return soup.find_all("div", class_='article-body')
+
+def ScrapeArticleDateTime(link):
+    #retrieve html content of story page on citywire and write to txt file
+    page = requests.get(link)
+    #open file
+    htmldoc = page.text
+    #create soup
+    soup = BeautifulSoup(htmldoc, "html.parser")
+    #get the important bits of the html doc
+    #get body
+    return soup.time
+
+def ScrapeArticleAuthor(link):
+    #retrieve html content of story page on citywire and write to txt file
+    page = requests.get(link)
+    #open file
+    htmldoc = page.text
+    #create soup
+    soup = BeautifulSoup(htmldoc, "html.parser")
+    #get the important bits of the html doc
+    #get body
+    return soup.find_all("a", class_="article-meta__author")
+
+df["Time"] = df["FullLink"].apply(ScrapeArticleDateTime)
+df["Author"] = df["FullLink"].apply(ScrapeArticleAuthor)
+df["Header"] = df["FullLink"].apply(ScrapeArticleHead)
+df["Body"] = df["FullLink"].apply(ScrapeArticleBod)

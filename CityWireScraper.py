@@ -21,7 +21,7 @@ page_links = []
 #loop through html file and find all relevant links
 ### The second part of this isn't working - need to fix later (want to ignore most popular list items as they contain dupes)
 for link in soup.find_all("a", class_="media__entry-link"):
-    if "most-popular-list" in link:
+    if "most-popular-list" in link['href']:
         pass
     else:
         page_links.append(link.get('href'))
