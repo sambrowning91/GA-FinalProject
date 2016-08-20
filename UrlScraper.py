@@ -73,3 +73,13 @@ df["Time"] = df["FullLink"].apply(ScrapeArticleDateTime)
 df["Author"] = df["FullLink"].apply(ScrapeArticleAuthor)
 df["Header"] = df["FullLink"].apply(ScrapeArticleHead)
 df["Body"] = df["FullLink"].apply(ScrapeArticleBod)
+
+#clean up time and author a bit
+df["Time"] = df.Time.apply(lambda x: str(x).split('"')[1])
+#df["Author"] = df.Author.apply(lambda x: str(x).split('>')[1])
+
+#df['cleanedbody']=df.Body.apply(removetags)
+
+#save to sql database
+#clean body
+#process text
