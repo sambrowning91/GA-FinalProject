@@ -11,6 +11,8 @@ import time
 import pandas as pd
 from bs4 import BeautifulSoup
 import requests
+import re
+import sqlite3
 
 #create string with today's date for filename
 timestr = time.strftime("%Y%m%d")
@@ -43,7 +45,6 @@ def ScrapeArticleBod(link):
     htmldoc = page.text
     #create soup
     soup = BeautifulSoup(htmldoc, "html.parser")
-    #get the important bits of the html doc
     #get body
     return soup.find_all("div", class_='article-body')
 
@@ -54,7 +55,6 @@ def ScrapeArticleDateTime(link):
     htmldoc = page.text
     #create soup
     soup = BeautifulSoup(htmldoc, "html.parser")
-    #get the important bits of the html doc
     #get body
     return soup.time
 
@@ -65,7 +65,6 @@ def ScrapeArticleAuthor(link):
     htmldoc = page.text
     #create soup
     soup = BeautifulSoup(htmldoc, "html.parser")
-    #get the important bits of the html doc
     #get body
     return soup.find_all("a", class_="article-meta__author")
 
@@ -76,10 +75,24 @@ df["Body"] = df["FullLink"].apply(ScrapeArticleBod)
 
 #clean up time and author a bit
 df["Time"] = df.Time.apply(lambda x: str(x).split('"')[1])
-#df["Author"] = df.Author.apply(lambda x: str(x).split('>')[1])
+df["Author"] = df.Author.apply(lambda x: str(x).replace(" ",""))
+df["Author"] = df.Author.apply(lambda x: str(x).split('"')[-1])
 
-#df['cleanedbody']=df.Body.apply(removetags)
+#To remove tags we need Body as a string
+df["Body"] = df["Body"].apply(lambda x: str(x))
 
-#save to sql database
-#clean body
-#process text
+#define function that will remove html tags
+def remove_tags(content):
+     return re.sub('<[^>]*>', '',content)
+#clean up body
+df["CleanedBody"]= df.Body.apply(remove_tags)
+
+#clean up author
+df["Author"] = df.Author.apply(remove_tags)
+
+#SAVE TO SQL DATABASE
+conn = sqlite3.connect('ArticlesScraping.db')
+df.to_sql(name='ArticleCorpus',
+          con=conn,
+          if_exists='append',
+          index=False)
