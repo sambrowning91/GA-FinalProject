@@ -19,8 +19,8 @@
     
 
 
-    <link rel="stylesheet" type="text/css" media="all" href="/wealth-manager/static/output/css/wm.css?v=1-0-1188-0" />
-    <link rel="stylesheet" type="text/css" media="print" href="/wealth-manager/static/output/css/default-print.css?v=1-0-1188-0" />      
+    <link rel="stylesheet" type="text/css" media="all" href="/wealth-manager/static/output/css/wm.css?v=1-0-1411-0" />
+    <link rel="stylesheet" type="text/css" media="print" href="/wealth-manager/static/output/css/default-print.css?v=1-0-1411-0" />      
     <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.7/css/jquery.dataTables.min.css" />    
     
 
@@ -36,7 +36,7 @@
     </script>
     <script type="text/javascript" src='/wealth-manager/static/libs/modernizr/modernizr-1.7.min.js'></script>    
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.polyfills.js?v=1-0-1188-0'></script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.polyfills.js?v=1-0-1411-0'></script>
     <script type="text/javascript" src="https://citywire.kuluvalley.com/widgets/1/application.js"></script>
 
     <!--BEGINNING OF CITYWIRE TRACKING SCRIPT-->
@@ -79,7 +79,7 @@ m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBef
     <script type="text/javascript" src="//use.typekit.net/rmk6wjt.js"></script>
     <script type="text/javascript">    try { Typekit.load(); } catch (e) { }</script>
     
-    <script type="text/javascript" src="/wealth-manager/static/js/cw.comments.js?v=1-0-1188-0"></script>
+    <script type="text/javascript" src="/wealth-manager/static/js/cw.comments.js?v=1-0-1411-0"></script>
 
      <!-- MOAT tracking script -->
     <script type="text/javascript">        (function () { var a = document, b = a.createElement("script"), a = a.getElementsByTagName("script")[0]; b.type = "text/javascript"; b.async = !0; b.src = "http://s.moatads.com/citywire591rztx94/moatcontent.js"; a.parentNode.insertBefore(b, a) })();</script>
@@ -100,7 +100,7 @@ m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBef
 
     
     
-        <script type="text/javascript" src="/wealth-manager/static/js/cw.oastagging.js?v=1-0-1188-0"></script>
+        <script type="text/javascript" src="/wealth-manager/static/js/cw.oastagging.js?v=1-0-1411-0"></script>
         <script type="text/javascript">            
             window.setOasTagInformation('wealth_manager_all_stories_list', 
                 undefined);
@@ -363,151 +363,151 @@ html {
             <div class="media__content">
                 <div class="jsContentList" data-code="wealth-manager-all-stories-list">    <div class="media__entry ">
 
-        <a class="media__entry-link" href="/wealth-manager/news/gresham-house-launches-public-equity-fund/a942523?ref=wealth_manager_all_stories_list">
+        <a class="media__entry-link" href="/wealth-manager/news/saturday-papers-rbs-to-charge-big-clients-for-holding-cash/a943301?ref=wealth_manager_all_stories_list">
             <div class="media__entry-title">
-                <h2 class="wt-bold">Gresham House launches public equity fund</h2>
+                <h2 class="wt-bold">Saturday Papers: RBS to charge big clients for holding cash</h2>
             </div>
         </a>
-            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-16">
-                16 August 2016, 13:33
+            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-20">
+                20 August 2016, 05:17
             </span>
             <div class="media__entry-body ">
-                <p>Gresham House has raised &#163;24m for the Gresham House Strategic Public Equity Fund LP (SPE Fund LP) </p>
+                <p>And from bear to bull market in 16 days as oil hits highest level since Brexit vote.  </p>
             </div>
         
     </div>
     <div class="media__entry ">
 
-        <a class="media__entry-link" href="/wealth-manager/news/omgi-hires-jpmam-veteran-to-lead-china-push/a942490?ref=wealth_manager_all_stories_list">
+        <a class="media__entry-link" href="/wealth-manager/news/rathbones-adds-to-london-office-with-second-hsbc-hire/a943417?ref=wealth_manager_all_stories_list">
             <div class="media__entry-title">
-                <h2 class="wt-bold">OMGI hires JPMAM veteran to lead China push</h2>
+                <h2 class="wt-bold">Rathbones adds to London office with second HSBC hire</h2>
             </div>
         </a>
-            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-16">
-                16 August 2016, 13:17
+            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-19">
+                19 August 2016, 13:42
             </span>
             <div class="media__entry-body ">
-                <p>Richard Mo joins the firm’s Hong Kong office in the newly created role of head of China business.</p>
+                <p>Rathbones has hired its second HSBC Global Asset Management director in the past week. </p>
             </div>
         
     </div>
     <div class="media__entry ">
 
-        <a class="media__entry-link" href="/wealth-manager/news/lang-the-only-value-plays-are-in-natural-resources/a942513?ref=wealth_manager_all_stories_list">
+        <a class="media__entry-link" href="/wealth-manager/news/central-banks-pouring-fuel-on-dying-embers/a943392?ref=wealth_manager_all_stories_list">
             <div class="media__entry-title">
-                <h2 class="wt-bold">Lang: The only value plays are in natural resources</h2>
+                <h2 class="wt-bold">Central banks pouring fuel on dying embers </h2>
             </div>
         </a>
-            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-16">
-                16 August 2016, 12:47
+            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-19">
+                19 August 2016, 12:52
             </span>
             <div class="media__entry-body ">
-                <p>Ardevora co-founder Jeremy Lang warns there are plenty of value traps out there, but real opportunities in the mining sector.  </p>
+                <p>The time may be approaching when government efforts to boost longer-term prosperity become more important.  </p>
             </div>
         
     </div>
     <div class="media__entry ">
 
-        <a class="media__entry-link" href="/wealth-manager/news/wealth-manager-olympics-the-100m-sprint/a942505?ref=wealth_manager_all_stories_list">
+        <a class="media__entry-link" href="/wealth-manager/news/wealth-manager-olympics-the-relay/a943397?ref=wealth_manager_all_stories_list">
             <div class="media__entry-title">
-                <h2 class="wt-bold">Wealth Manager Olympics: the 100m sprint</h2>
+                <h2 class="wt-bold">Wealth Manager Olympics: the Relay</h2>
             </div>
         </a>
-            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-16">
-                16 August 2016, 12:47
+            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-19">
+                19 August 2016, 12:27
             </span>
             <div class="media__entry-body ">
-                <p>Four wealth managers take on Citywire&#39;s fittest across a range of athletic disciplines in the second biggest sporting event of the summer.</p>
+                <p>In the final round of the Wealth Manager Olympics, our intrepid athletes team up for the relay.  </p>
             </div>
         
     </div>
     <div class="media__entry ">
 
-        <a class="media__entry-link" href="/wealth-manager/news/the-great-yield-hunt-or-pokemon-go-for-bond-enthusiasts/a942066?ref=wealth_manager_all_stories_list">
+        <a class="media__entry-link" href="/wealth-manager/news/jupiters-davies-buys-bombed-out-domestics/a943368?ref=wealth_manager_all_stories_list">
             <div class="media__entry-title">
-                <h2 class="wt-bold">The Great Yield Hunt (or Pok&#233;mon Go for bond enthusiasts)</h2>
+                <h2 class="wt-bold">Jupiter&#39;s Davies buys &#39;bombed out&#39; domestics</h2>
             </div>
         </a>
-            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-16">
-                16 August 2016, 11:25
+            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-19">
+                19 August 2016, 11:21
             </span>
             <div class="media__entry-body ">
-                <p>Bond investors: your kids wasting their lives on Pok&#233;mon Go may be beyond comprehension, but now you can&#160;too.  </p>
+                <p>However the Jupiter UK Growth manager does expect a &#39;mild recession&#39; to hit the UK.</p>
             </div>
         
     </div>
     <div class="media__entry ">
 
-        <a class="media__entry-link" href="/wealth-manager/news/hasenstab-two-top-ems-standing-on-their-own-feet/a942366?ref=wealth_manager_all_stories_list">
+        <a class="media__entry-link" href="/wealth-manager/news/towry-teams-up-with-capita-to-offer-dc-pension-advice/a943328?ref=wealth_manager_all_stories_list">
             <div class="media__entry-title">
-                <h2 class="wt-bold">Hasenstab: two top EMs standing on their own feet</h2>
+                <h2 class="wt-bold">Towry teams up with Capita to offer DC pension advice</h2>
             </div>
         </a>
-            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-16">
-                16 August 2016, 11:17
+            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-19">
+                19 August 2016, 10:55
             </span>
             <div class="media__entry-body ">
-                <p>Franklin Templeton’s bond star says Malaysia and Indonesia are holding their own despite commodity collapse and China&#39;s slowdown.  </p>
+                <p>At Retirement service aimed at trustees and employers with DC pensions.</p>
             </div>
         
     </div>
     <div class="media__entry ">
 
-        <a class="media__entry-link" href="/wealth-manager/news/a-rated-de-tusch-lec-stubs-out-tobacco-stocks/a942477?ref=wealth_manager_all_stories_list">
+        <a class="media__entry-link" href="/wealth-manager/news/shell-and-bp-cant-keep-up-with-oil-bulls/a943315?ref=wealth_manager_all_stories_list">
             <div class="media__entry-title">
-                <h2 class="wt-bold">A-rated de Tusch-Lec stubs out tobacco stocks</h2>
+                <h2 class="wt-bold">Shell and BP can&#39;t keep up with oil bulls</h2>
             </div>
         </a>
-            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-16">
-                16 August 2016, 11:12
+            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-19">
+                19 August 2016, 10:24
             </span>
             <div class="media__entry-body ">
-                <p>Equity income specialist believes overvalued defensive stocks are increasingly vulnerable, with cigarette companies at the forefront.  </p>
+                <p>The oil price has consolidated above $50 after a strong run, but investors in BP and Shell haven&#39;t seen much benefit.  </p>
             </div>
         
     </div>
     <div class="media__entry ">
 
-        <a class="media__entry-link" href="/wealth-manager/news/miners-surge-as-investors-shrug-off-record-bhp-loss/a942482?ref=wealth_manager_all_stories_list">
+        <a class="media__entry-link" href="/wealth-manager/news/hedge-fund-giant-warns-on-biggest-bond-bubble-ever/a943307?ref=wealth_manager_all_stories_list">
             <div class="media__entry-title">
-                <h2 class="wt-bold">Miners surge as investors shrug off record BHP loss</h2>
+                <h2 class="wt-bold">Hedge fund giant warns on &#39;biggest bond bubble&#39; ever</h2>
             </div>
         </a>
-            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-16">
-                16 August 2016, 11:02
+            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-19">
+                19 August 2016, 08:12
             </span>
             <div class="media__entry-body ">
-                <p>BHP Billiton reports record $6.4 billion loss but that doesn&#39;t&#160;faze investors, who welcome signs commodity price free-fall is over.  </p>
+                <p>Elliott Management founder Paul Singer believes the global bond market is &#39;broken&#39; and holding these assets could result in the &#39;death of capital&#39;.</p>
             </div>
         
     </div>
     <div class="media__entry ">
 
-        <a class="media__entry-link" href="/wealth-manager/news/glg-s-powe-why-i-don-t-want-my-companies-being-bid-for/a937885?ref=wealth_manager_all_stories_list">
+        <a class="media__entry-link" href="/wealth-manager/news/special-fee-on-top-montanaro-uk-income-fund-shuts/a943265?ref=wealth_manager_all_stories_list">
             <div class="media__entry-title">
-                <h2 class="wt-bold">GLG’s Powe: Why I don’t want my companies being bid for</h2>
+                <h2 class="wt-bold">Special fee on top Montanaro UK Income fund shuts</h2>
             </div>
         </a>
-            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-16">
-                16 August 2016, 10:48
+            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-19">
+                19 August 2016, 08:07
             </span>
             <div class="media__entry-body ">
-                <p>The Europe ex-UK manager does not want to miss out on returns if his holdings are bid for unless there is a &#39;silly&#39; price on offer. </p>
+                <p>Investors will no longer be able to access the Montanaro UK Income fund at a discount after it hit its &#163;150 million capacity.  </p>
             </div>
         
     </div>
     <div class="media__entry ">
 
-        <a class="media__entry-link" href="/wealth-manager/news/inflation-hits-0-6-in-first-signs-of-brexit-vote-impact/a942456?ref=wealth_manager_all_stories_list">
+        <a class="media__entry-link" href="/wealth-manager/news/aurora-investment-trust-seeks-2m-from-investors/a943306?ref=wealth_manager_all_stories_list">
             <div class="media__entry-title">
-                <h2 class="wt-bold">Inflation hits 0.6% in first signs of &#39;Brexit&#39; vote impact</h2>
+                <h2 class="wt-bold">Aurora investment trust seeks &#163;2m from investors</h2>
             </div>
         </a>
-            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-16">
-                16 August 2016, 09:34
+            <span class="media__entry-date co-light sz-s " itemprop="datePublished" content="2016-08-19">
+                19 August 2016, 08:02
             </span>
             <div class="media__entry-body ">
-                <p>Inflation rose to 0.6% in July after the pound&#39;s heavy slump on the &#39;Brexit&#39; vote.  </p>
+                <p>The trust was recently taken over by Phoenix Asset Management in order to repair its ailing performance.</p>
             </div>
         
     </div>
@@ -606,36 +606,40 @@ html {
 <div class="media__content">
     <ul class="media__list" role="list">
             <li class="media__entry ">
-                <a class="media__entry-link" href="/wealth-manager/news/ex-charles-stanley-manager-launches-branch-for-raymond-james/a942347?ref=wealth-manager-most-popular-list">
-                    Ex-Charles Stanley manager launches branch for Raymond James                    
-                </a>                
-            </li>
-            <li class="media__entry ">
-                <a class="media__entry-link" href="/wealth-manager/news/revealed-how-much-money-nutmeg-has-under-management/a941662?ref=wealth-manager-most-popular-list">
-                    Revealed: how much money Nutmeg has under management                    
-    <span class="media__comments" title="11 Comments">
-    	<span class="media__comments-icon"></span>
-    	11
-    </span>
-                </a>                
-            </li>
-            <li class="media__entry ">
-                <a class="media__entry-link" href="/wealth-manager/news/brewin-dolphin-sees-triple-exit/a942319?ref=wealth-manager-most-popular-list">
-                    Brewin Dolphin sees triple exit                    
-                </a>                
-            </li>
-            <li class="media__entry ">
-                <a class="media__entry-link" href="/wealth-manager/news/old-mutual-to-cut-jobs-in-london-as-part-of-restructure/a941710?ref=wealth-manager-most-popular-list">
-                    Old Mutual to cut jobs in London as part of restructure                    
-                </a>                
-            </li>
-            <li class="media__entry ">
-                <a class="media__entry-link" href="/wealth-manager/news/aegon-buys-cofunds-for-140-million/a941714?ref=wealth-manager-most-popular-list">
-                    Aegon buys Cofunds for &#163;140 million                    
+                <a class="media__entry-link" href="/wealth-manager/news/the-death-of-the-60-40-portfolio/a943154?ref=wealth-manager-most-popular-list">
+                    The death of the 60:40 portfolio                    
     <span class="media__comments" title="1 Comment">
     	<span class="media__comments-icon"></span>
     	1
     </span>
+                </a>                
+            </li>
+            <li class="media__entry ">
+                <a class="media__entry-link" href="/wealth-manager/news/hedge-fund-giant-warns-on-biggest-bond-bubble-ever/a943307?ref=wealth-manager-most-popular-list">
+                    Hedge fund giant warns on &#39;biggest bond bubble&#39; ever                    
+    <span class="media__comments" title="3 Comments">
+    	<span class="media__comments-icon"></span>
+    	3
+    </span>
+                </a>                
+            </li>
+            <li class="media__entry ">
+                <a class="media__entry-link" href="/wealth-manager/news/ex-close-wealth-boss-launches-robo-adviser/a943199?ref=wealth-manager-most-popular-list">
+                    Ex-Close wealth boss launches robo adviser                     
+    <span class="media__comments" title="5 Comments">
+    	<span class="media__comments-icon"></span>
+    	5
+    </span>
+                </a>                
+            </li>
+            <li class="media__entry ">
+                <a class="media__entry-link" href="/wealth-manager/news/aberdeen-asian-income-cuts-hugh-youngs-fee/a943158?ref=wealth-manager-most-popular-list">
+                    Aberdeen Asian Income cuts Hugh Young&#39;s fee                    
+                </a>                
+            </li>
+            <li class="media__entry ">
+                <a class="media__entry-link" href="/wealth-manager/news/jupiters-davies-buys-bombed-out-domestics/a943368?ref=wealth-manager-most-popular-list">
+                    Jupiter&#39;s Davies buys &#39;bombed out&#39; domestics                    
                 </a>                
             </li>
     </ul>
@@ -645,6 +649,42 @@ html {
     </div>
     <div class="media__content">
         <ul class="media__list">
+                <li class="media__entry  ">
+                    <a class="media__entry-link" href="/wealth-manager/news/central-banks-pouring-fuel-on-dying-embers/a943392?ref=wealth-manager-comment-list">
+                        <div class="media__entry-image">
+    <span class="media__entry-comments">
+        <span class="media__entry-comments-count sz-l wt-extrabold anim-2s">1</span>
+        <span class="media__entry-comments-arrow anim-2s"></span>
+        <span class="media__entry-comments-meta anim-2s">Comment</span>
+    </span>
+                            <img itemprop="image" class="image-fluid" src="http://cdn.citywirecontent.co.uk/images/2011/08/19/517712-System__Resources__Image-567627.jpg" alt="Central banks pouring fuel on dying embers ">
+                        </div>
+                        <div class="media__entry-title">
+                            <h2 class="sz-l wt-bold">Central banks pouring fuel on dying embers </h2>
+                        </div>
+                    </a>
+                        <div class="media__entry-body">
+                            <p>The time may be approaching when government efforts to boost longer-term prosperity become more important.  </p>
+                        </div>
+            </li>
+                <li class="media__entry media__entry--last ">
+                    <a class="media__entry-link" href="/wealth-manager/news/the-death-of-the-60-40-portfolio/a943154?ref=wealth-manager-comment-list">
+                        <div class="media__entry-image">
+    <span class="media__entry-comments">
+        <span class="media__entry-comments-count sz-l wt-extrabold anim-2s">1</span>
+        <span class="media__entry-comments-arrow anim-2s"></span>
+        <span class="media__entry-comments-meta anim-2s">Comment</span>
+    </span>
+                            <img itemprop="image" class="image-fluid" src="http://cdn.citywirecontent.co.uk/images/2015/02/18/798870-System__Resources__Image-917426.jpg" alt="The death of the 60:40 portfolio">
+                        </div>
+                        <div class="media__entry-title">
+                            <h2 class="sz-l wt-bold">The death of the 60:40 portfolio</h2>
+                        </div>
+                    </a>
+                        <div class="media__entry-body">
+                            <p>The portfolio construction favourite is no longer the safe bet it once was. GAM investment directors Larry Hatheway and&#160;Julian Howard looks at alternative allocation approaches.  </p>
+                        </div>
+            </li>
                 <li class="media__entry  ">
                     <a class="media__entry-link" href="/wealth-manager/news/how-are-the-channel-islands-dealing-with-brexit/a937107?ref=wealth-manager-comment-list">
                         <div class="media__entry-image">
@@ -656,32 +696,6 @@ html {
                     </a>
                         <div class="media__entry-body">
                             <p>They did not get a chance to vote in the EU referendum, but the Channel Islands are not immune from the effects of Brexit, although some say it may actually turn out a positive.</p>
-                        </div>
-            </li>
-                <li class="media__entry media__entry--last ">
-                    <a class="media__entry-link" href="/wealth-manager/news/could-italy-s-constitution-vote-be-a-brexit-ii-moment/a941033?ref=wealth-manager-comment-list">
-                        <div class="media__entry-image">
-                            <img itemprop="image" class="image-fluid" src="http://cdn.citywirecontent.co.uk/images/2015/09/17/842817-System__Resources__Image-983103.jpg" alt="Could Italy’s constitution vote be a Brexit II moment?">
-                        </div>
-                        <div class="media__entry-title">
-                            <h2 class="sz-l wt-bold">Could Italy’s constitution vote be a Brexit II moment?</h2>
-                        </div>
-                    </a>
-                        <div class="media__entry-body">
-                            <p>With Europe still reeling from the shock result of the UK’s Brexit vote Italy goes to the polls which could lead to a second shock for the EU.</p>
-                        </div>
-            </li>
-                <li class="media__entry  ">
-                    <a class="media__entry-link" href="/wealth-manager/news/taking-the-first-steps-the-risks-and-rewards-of-regulatory-umbrellas/a935403?ref=wealth-manager-comment-list">
-                        <div class="media__entry-image">
-                            <img itemprop="image" class="image-fluid" src="http://cdn.citywirecontent.co.uk/images/2016/08/10/941498-System__Resources__Image-1106082.jpg" alt="Taking the first steps: the risks and rewards of regulatory umbrellas">
-                        </div>
-                        <div class="media__entry-title">
-                            <h2 class="sz-l wt-bold">Taking the first steps: the risks and rewards of regulatory umbrellas</h2>
-                        </div>
-                    </a>
-                        <div class="media__entry-body">
-                            <p>You have been in the industry for years, lived through changes such as the RDR and survived the 2008 financial crisis, all the while gaining experience at a large wealth manager. But now it is time to leave.</p>
                         </div>
             </li>
         </ul>
@@ -764,14 +778,14 @@ html {
 
         <div class="market-data__values">
             <span class="market-data__values-1 jsLastTradeValue">
-                6893.92
+                6858.95
             </span>
             <span class="market-data__values-2 jsMarketChangeValue">
-                  -47
+                  -10
             </span>
             <span class="market-data__values-3 jsMarketChangePercent--container is-negative">
                 <i class="jsMarketChangePercent--icon fa fa-arrow-down"></i>
-                <span class="jsMarketChangePercent">0.68</span>%
+                <span class="jsMarketChangePercent">0.15</span>%
             </span><span class="market-data__values-4">
                        <i class="fa fa-clock-o"></i>
                        <span class="jsLastTradeTime">04:35</span>
@@ -811,102 +825,122 @@ html {
         <div class="media__content sz-m wt-regular">
             <ul class="media__list" role="list">
                     <li class="media__entry " style="">
-                        <a class="media__entry-link" href="/wealth-manager/news/ex-charles-stanley-manager-launches-branch-for-raymond-james/a942347?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular">
+                        <a class="media__entry-link" href="/wealth-manager/news/the-death-of-the-60-40-portfolio/a943154?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular">
                             <div class="widget-most-popular__rank anim-2s">
                                 1
+                            </div>
+                            <div class="widget-most-popular__text">
+                                The death of the 60:40 portfolio
+                            </div>
+                        </a>
+                    </li>
+                    <li class="media__entry " style="">
+                        <a class="media__entry-link" href="/wealth-manager/news/hedge-fund-giant-warns-on-biggest-bond-bubble-ever/a943307?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular">
+                            <div class="widget-most-popular__rank anim-2s">
+                                2
+                            </div>
+                            <div class="widget-most-popular__text">
+                                Hedge fund giant warns on &#39;biggest bond bubble&#39; ever
+                            </div>
+                        </a>
+                    </li>
+                    <li class="media__entry " style="">
+                        <a class="media__entry-link" href="/wealth-manager/news/ex-close-wealth-boss-launches-robo-adviser/a943199?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular">
+                            <div class="widget-most-popular__rank anim-2s">
+                                3
+                            </div>
+                            <div class="widget-most-popular__text">
+                                Ex-Close wealth boss launches robo adviser 
+                            </div>
+                        </a>
+                    </li>
+                    <li class="media__entry " style="display:none;">
+                        <a class="media__entry-link" href="/wealth-manager/news/aberdeen-asian-income-cuts-hugh-youngs-fee/a943158?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular-expanded">
+                            <div class="widget-most-popular__rank anim-2s">
+                                4
+                            </div>
+                            <div class="widget-most-popular__text">
+                                Aberdeen Asian Income cuts Hugh Young&#39;s fee
+                            </div>
+                        </a>
+                    </li>
+                    <li class="media__entry " style="display:none;">
+                        <a class="media__entry-link" href="/wealth-manager/news/jupiters-davies-buys-bombed-out-domestics/a943368?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular-expanded">
+                            <div class="widget-most-popular__rank anim-2s">
+                                5
+                            </div>
+                            <div class="widget-most-popular__text">
+                                Jupiter&#39;s Davies buys &#39;bombed out&#39; domestics
+                            </div>
+                        </a>
+                    </li>
+                    <li class="media__entry " style="display:none;">
+                        <a class="media__entry-link" href="/wealth-manager/news/special-fee-on-top-montanaro-uk-income-fund-shuts/a943265?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular-expanded">
+                            <div class="widget-most-popular__rank anim-2s">
+                                6
+                            </div>
+                            <div class="widget-most-popular__text">
+                                Special fee on top Montanaro UK Income fund shuts
+                            </div>
+                        </a>
+                    </li>
+                    <li class="media__entry " style="display:none;">
+                        <a class="media__entry-link" href="/wealth-manager/news/bill-miller-weighs-up-new-funds-following-legg-mason-split/a942960?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular-expanded">
+                            <div class="widget-most-popular__rank anim-2s">
+                                7
+                            </div>
+                            <div class="widget-most-popular__text">
+                                Bill Miller weighs up new funds following Legg Mason split
+                            </div>
+                        </a>
+                    </li>
+                    <li class="media__entry " style="display:none;">
+                        <a class="media__entry-link" href="/wealth-manager/news/charles-stanleys-peters-leaves-for-barclays-wealth/a942807?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular-expanded">
+                            <div class="widget-most-popular__rank anim-2s">
+                                8
+                            </div>
+                            <div class="widget-most-popular__text">
+                                Charles Stanley&#39;s Peters leaves for Barclays Wealth
+                            </div>
+                        </a>
+                    </li>
+                    <li class="media__entry " style="display:none;">
+                        <a class="media__entry-link" href="/wealth-manager/news/7im-assets-grow-30-to-over-10-billion/a942722?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular-expanded">
+                            <div class="widget-most-popular__rank anim-2s">
+                                9
+                            </div>
+                            <div class="widget-most-popular__text">
+                                7IM assets grow 30% to over &#163;10 billion
+                            </div>
+                        </a>
+                    </li>
+                    <li class="media__entry " style="display:none;">
+                        <a class="media__entry-link" href="/wealth-manager/news/firms-face-significant-fines-for-tax-avoidance-advice/a942724?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular-expanded">
+                            <div class="widget-most-popular__rank anim-2s">
+                                10
+                            </div>
+                            <div class="widget-most-popular__text">
+                                Firms face significant fines for tax avoidance advice
+                            </div>
+                        </a>
+                    </li>
+                    <li class="media__entry " style="display:none;">
+                        <a class="media__entry-link" href="/wealth-manager/news/ex-charles-stanley-manager-launches-branch-for-raymond-james/a942347?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular-expanded">
+                            <div class="widget-most-popular__rank anim-2s">
+                                11
                             </div>
                             <div class="widget-most-popular__text">
                                 Ex-Charles Stanley manager launches branch for Raymond James
                             </div>
                         </a>
                     </li>
-                    <li class="media__entry " style="">
-                        <a class="media__entry-link" href="/wealth-manager/news/revealed-how-much-money-nutmeg-has-under-management/a941662?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular">
+                    <li class="media__entry " style="display:none;">
+                        <a class="media__entry-link" href="/wealth-manager/news/revealed-how-much-money-nutmeg-has-under-management/a941662?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular-expanded">
                             <div class="widget-most-popular__rank anim-2s">
-                                2
+                                12
                             </div>
                             <div class="widget-most-popular__text">
                                 Revealed: how much money Nutmeg has under management
-                            </div>
-                        </a>
-                    </li>
-                    <li class="media__entry " style="">
-                        <a class="media__entry-link" href="/wealth-manager/news/brewin-dolphin-sees-triple-exit/a942319?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular">
-                            <div class="widget-most-popular__rank anim-2s">
-                                3
-                            </div>
-                            <div class="widget-most-popular__text">
-                                Brewin Dolphin sees triple exit
-                            </div>
-                        </a>
-                    </li>
-                    <li class="media__entry " style="display:none;">
-                        <a class="media__entry-link" href="/wealth-manager/news/old-mutual-to-cut-jobs-in-london-as-part-of-restructure/a941710?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular-expanded">
-                            <div class="widget-most-popular__rank anim-2s">
-                                4
-                            </div>
-                            <div class="widget-most-popular__text">
-                                Old Mutual to cut jobs in London as part of restructure
-                            </div>
-                        </a>
-                    </li>
-                    <li class="media__entry " style="display:none;">
-                        <a class="media__entry-link" href="/wealth-manager/news/aegon-buys-cofunds-for-140-million/a941714?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular-expanded">
-                            <div class="widget-most-popular__rank anim-2s">
-                                5
-                            </div>
-                            <div class="widget-most-popular__text">
-                                Aegon buys Cofunds for &#163;140 million
-                            </div>
-                        </a>
-                    </li>
-                    <li class="media__entry " style="display:none;">
-                        <a class="media__entry-link" href="/wealth-manager/news/aviva-investors-property-fund-suspension-may-last-eight-months/a941545?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular-expanded">
-                            <div class="widget-most-popular__rank anim-2s">
-                                6
-                            </div>
-                            <div class="widget-most-popular__text">
-                                Aviva Investors property fund suspension may last eight months
-                            </div>
-                        </a>
-                    </li>
-                    <li class="media__entry " style="display:none;">
-                        <a class="media__entry-link" href="/wealth-manager/news/mandg-suffers-7-billion-outflow/a941492?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular-expanded">
-                            <div class="widget-most-popular__rank anim-2s">
-                                7
-                            </div>
-                            <div class="widget-most-popular__text">
-                                M&amp;G suffers &#163;7 billion outflow
-                            </div>
-                        </a>
-                    </li>
-                    <li class="media__entry " style="display:none;">
-                        <a class="media__entry-link" href="/wealth-manager/news/brexit-study-says-access-to-single-market-meaningless/a941462?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular-expanded">
-                            <div class="widget-most-popular__rank anim-2s">
-                                8
-                            </div>
-                            <div class="widget-most-popular__text">
-                                Brexit study says &#39;access&#39; to single market &#39;meaningless&#39;
-                            </div>
-                        </a>
-                    </li>
-                    <li class="media__entry " style="display:none;">
-                        <a class="media__entry-link" href="/wealth-manager/news/harry-potter-star-loses-1m-hmrc-duel/a941375?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular-expanded">
-                            <div class="widget-most-popular__rank anim-2s">
-                                9
-                            </div>
-                            <div class="widget-most-popular__text">
-                                Harry Potter star loses &#163;1m HMRC duel
-                            </div>
-                        </a>
-                    </li>
-                    <li class="media__entry " style="display:none;">
-                        <a class="media__entry-link" href="/wealth-manager/news/fca-fines-aim-listed-broker-for-due-diligence-failings/a941261?ref=wealth-manager-most-popular-list&amp;linkSource=most-popular-expanded">
-                            <div class="widget-most-popular__rank anim-2s">
-                                10
-                            </div>
-                            <div class="widget-most-popular__text">
-                                FCA fines AIM-listed broker for due diligence failings
                             </div>
                         </a>
                     </li>
@@ -1097,7 +1131,7 @@ html {
     <script type="text/javascript" src='/wealth-manager/static/libs/jquerytools/jquery.tools.min.js'></script>
     <script type="text/javascript" src='/wealth-manager/static/libs/highcharts/highcharts.js'></script>
     <script type="text/javascript" src='/wealth-manager/static/libs/highcharts/stock/highstock.js'></script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.marketsintradaycharts.js?v=1-0-1188-0'></script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.marketsintradaycharts.js?v=1-0-1411-0'></script>
     <script type="text/javascript" src='/wealth-manager/static/libs/caroufredsel/jquery.carouFredSel.js'></script>
     <script type="text/javascript" src='/wealth-manager/static/libs/roundabout/jquery.roundabout.min.js'></script>
     <script type="text/javascript" src='/wealth-manager/static/libs/avgrund/js/avgrund.js'></script>
@@ -1109,31 +1143,31 @@ html {
     <script type="text/javascript" src="/wealth-manager/static/libs/validate/jquery.validate.min.js" ></script>
     <script type="text/javascript" src="/wealth-manager/static/libs/validate/jquery.validate.unobtrusive.min.js"></script>
     
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.search.js?v=1-0-1188-0'></script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.modal.js?v=1-0-1188-0'></script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.gallery.js?v=1-0-1188-0'></script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.base.js?v=1-0-1188-0'></script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.resources.js?v=1-0-1188-0'></script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.global.js?v=1-0-1188-0'></script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.ajax.js?v=1-0-1188-0'></script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.legacy-charting.js?v=1-0-1188-0'></script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.charting.js?v=1-0-1188-0'></script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.assetClass.js?v=1-0-1188-0'></script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.sectors.js?v=1-0-1188-0'></script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.registerTicker.js?v=1-0-1188-0'> </script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.validate.unobtrusive.extensions.js?v=1-0-1188-0'></script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.form.js?v=1-0-1188-0'></script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.socialMedia.js?v=1-0-1188-0'></script> 
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.mostPopular.js?v=1-0-1188-0'></script>
-    <script type="text/javascript" src='/wealth-manager/static/js/cw.print.js?v=1-0-1188-0'></script> 
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.search.js?v=1-0-1411-0'></script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.modal.js?v=1-0-1411-0'></script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.gallery.js?v=1-0-1411-0'></script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.base.js?v=1-0-1411-0'></script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.resources.js?v=1-0-1411-0'></script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.global.js?v=1-0-1411-0'></script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.ajax.js?v=1-0-1411-0'></script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.legacy-charting.js?v=1-0-1411-0'></script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.charting.js?v=1-0-1411-0'></script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.assetClass.js?v=1-0-1411-0'></script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.sectors.js?v=1-0-1411-0'></script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.registerTicker.js?v=1-0-1411-0'> </script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.validate.unobtrusive.extensions.js?v=1-0-1411-0'></script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.form.js?v=1-0-1411-0'></script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.socialMedia.js?v=1-0-1411-0'></script> 
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.mostPopular.js?v=1-0-1411-0'></script>
+    <script type="text/javascript" src='/wealth-manager/static/js/cw.print.js?v=1-0-1411-0'></script> 
     <script type="text/javascript" src="//cdn.datatables.net/1.10.7/js/jquery.dataTables.min.js"></script>
         <!-- This twitter script sorts out pop-up links for twitter links -->
         <script type="text/javascript" async src="//platform.twitter.com/widgets.js"></script>
     
 
-        <script type="text/javascript" src="/wealth-manager/static/js/cw.emailafriend.js?v=1-0-1188-0"></script>
+        <script type="text/javascript" src="/wealth-manager/static/js/cw.emailafriend.js?v=1-0-1411-0"></script>
     
-        <script type="text/javascript" src="/wealth-manager/static/js/cw.favourites.js?v=1-0-1188-0"></script>
+        <script type="text/javascript" src="/wealth-manager/static/js/cw.favourites.js?v=1-0-1411-0"></script>
     
         <!--BEGINNING OF CITYWIRE AUTOSSO SCRIPT-->
         <script type="text/javascript">
@@ -1175,7 +1209,7 @@ html {
 </body>
 
 
-<script type="text/javascript" src='/wealth-manager/static/js/cw.advert.dx.js?v=1-0-1188-0'></script>
+<script type="text/javascript" src='/wealth-manager/static/js/cw.advert.dx.js?v=1-0-1411-0'></script>
     
     <script type="text/javascript">
         window.advertRecylingSettings = {
@@ -1185,9 +1219,9 @@ html {
     <script src="/wealth-manager/static/libs/waypoints/waypoints.js"></script>
     <script src="/wealth-manager/static/libs/waypoints/waypoints-sticky.js"></script>
     <script type="text/javascript" src="/wealth-manager/static/libs/scrolltofixed/jquery-scrolltofixed-min.js"></script>
-        <script type="text/javascript" src="/wealth-manager/static/js/cw.advertrecycling.js?v=1-0-1188-0"></script>
-    <script type="text/javascript" src="/wealth-manager/static/js/cw.mediaslider.js?v=1-0-1188-0"></script>
-    <script type="text/javascript" src="/wealth-manager/static/js/cw.wealth-manager.js?v=1-0-1188-0"></script>
+        <script type="text/javascript" src="/wealth-manager/static/js/cw.advertrecycling.js?v=1-0-1411-0"></script>
+    <script type="text/javascript" src="/wealth-manager/static/js/cw.mediaslider.js?v=1-0-1411-0"></script>
+    <script type="text/javascript" src="/wealth-manager/static/js/cw.wealth-manager.js?v=1-0-1411-0"></script>
 <script type="text/javascript">
     // Remove linkSource= from the url, with a delay (configurable, default 300ms) 
     // to give tracking scripts a chance to capture the URL with this parameter still present.
